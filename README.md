@@ -1,3 +1,3 @@
-# flutter_stateful_widget_group
+# Flutter开发07 - StatefulWidget与其基础组件
 
-FlutterStateful Widget Demo
+博客地址：https://blog.csdn.net/sinat_31177681/article/details/89289149
